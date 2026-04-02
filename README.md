@@ -24,7 +24,11 @@ A simple **voice-controlled assistant** built with Python that can listen, speak
 * PyAudio
 
 ---
+## 👀 Live Demo
 
+https://www.linkedin.com/posts/garbhitm26_python-voiceassistant-jarvis-ugcPost-7444747329548693504-rcOy?utm_source=share&utm_medium=member_android&rcm=ACoAAFwDbOsBvG3Poe84WytP00nCaDx5TwjAdm4
+
+---
 ## 📦 Installation
 
 ### 1. Clone the repository
